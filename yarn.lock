@@ -1648,6 +1648,14 @@ dustjs-linkedin@^2.7.5:
     chokidar "~1.5.1"
     cli "^1.0.1"
 
+dustjs-linkedin@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/dustjs-linkedin/-/dustjs-linkedin-3.0.0.tgz#49a215002dfba32aaddc13d376d21735467ce83b"
+  integrity sha512-4p7uxR+qLX4dBdjskHZNgDUIKsOXaEr3xsgP5wn4sfinq51cx+2I34uHVzh4VgDJ8Xmjdd5oZn0HeeYkH2UJWA==
+  dependencies:
+    chokidar "~1.5.1"
+    cli "^1.0.1"
+
 easy-table@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/easy-table/-/easy-table-1.1.1.tgz#c1b9b9ad68a017091a1c235e4bcba277540e143f"
